@@ -20,7 +20,7 @@ public class DemoForGit {
         System.out.println("Hello World- From Muskan now");
         System.out.println("In sync and ahead ");
         // adding change in remote/git first
-        // Trying fetch and pull
+        // Trying fetch and merge
     }
     
 }
