@@ -17,7 +17,7 @@ public class DemoForGit {
         // TODO code application logic here
         System.out.println("Hello World");
         // Adding a change
-        ystem.out.println("Hello World- From Muskan now");
+        System.out.println("Hello World- From Muskan now");
     }
     
 }
